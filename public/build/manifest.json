@@ -1,0 +1,127 @@
+{
+  "public/images/card-example-one.png": {
+    "file": "assets/card-example-one-8243f8c3.png",
+    "src": "public/images/card-example-one.png"
+  },
+  "public/images/card-example-two.png": {
+    "file": "assets/card-example-two-d776c63f.png",
+    "src": "public/images/card-example-two.png"
+  },
+  "public/images/excel-icon.webp": {
+    "file": "assets/excel-icon-77c1b5a5.webp",
+    "src": "public/images/excel-icon.webp"
+  },
+  "public/images/first-vase.png": {
+    "file": "assets/first-vase-c1be6630.png",
+    "src": "public/images/first-vase.png"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-0d710e13.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/excel-icon-77c1b5a5.webp",
+      "assets/card-example-one-8243f8c3.png",
+      "assets/card-example-two-d776c63f.png",
+      "assets/first-vase-c1be6630.png"
+    ],
+    "css": [
+      "assets/app-0d710e13.css"
+    ],
+    "file": "assets/app-7bedbbe5.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/login-assets/css/main.css": {
+    "file": "assets/main-8f516a6f.css",
+    "isEntry": true,
+    "src": "resources/login-assets/css/main.css"
+  },
+  "resources/login-assets/css/util.css": {
+    "file": "assets/util-abdadbbb.css",
+    "isEntry": true,
+    "src": "resources/login-assets/css/util.css"
+  },
+  "resources/login-assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css": {
+    "file": "assets/font-awesome.min-d1bb2fb5.css",
+    "isEntry": true,
+    "src": "resources/login-assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+  },
+  "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot": {
+    "file": "assets/fontawesome-webfont-7bfcab6d.eot",
+    "src": "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot"
+  },
+  "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg": {
+    "file": "assets/fontawesome-webfont-fc378232.svg",
+    "src": "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg"
+  },
+  "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf": {
+    "file": "assets/fontawesome-webfont-aa58f33f.ttf",
+    "src": "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf"
+  },
+  "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff": {
+    "file": "assets/fontawesome-webfont-ba0c59de.woff",
+    "src": "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff"
+  },
+  "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2": {
+    "file": "assets/fontawesome-webfont-2adefcbc.woff2",
+    "src": "resources/login-assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2"
+  },
+  "resources/login-assets/fonts/montserrat/Montserrat-Bold.ttf": {
+    "file": "assets/Montserrat-Bold-c4c8cb57.ttf",
+    "src": "resources/login-assets/fonts/montserrat/Montserrat-Bold.ttf"
+  },
+  "resources/login-assets/fonts/poppins/Poppins-Bold.ttf": {
+    "file": "assets/Poppins-Bold-210933fb.ttf",
+    "src": "resources/login-assets/fonts/poppins/Poppins-Bold.ttf"
+  },
+  "resources/login-assets/fonts/poppins/Poppins-Medium.ttf": {
+    "file": "assets/Poppins-Medium-45870260.ttf",
+    "src": "resources/login-assets/fonts/poppins/Poppins-Medium.ttf"
+  },
+  "resources/login-assets/fonts/poppins/Poppins-Regular.ttf": {
+    "file": "assets/Poppins-Regular-2425ebbc.ttf",
+    "src": "resources/login-assets/fonts/poppins/Poppins-Regular.ttf"
+  },
+  "resources/login-assets/js/main.js": {
+    "file": "assets/main-49a73160.js",
+    "isEntry": true,
+    "src": "resources/login-assets/js/main.js"
+  },
+  "resources/login-assets/vendor/animate/animate.css": {
+    "file": "assets/animate-061fa849.css",
+    "isEntry": true,
+    "src": "resources/login-assets/vendor/animate/animate.css"
+  },
+  "resources/login-assets/vendor/bootstrap/css/bootstrap.min.css": {
+    "file": "assets/bootstrap.min-410747ee.css",
+    "isEntry": true,
+    "src": "resources/login-assets/vendor/bootstrap/css/bootstrap.min.css"
+  },
+  "resources/login-assets/vendor/bootstrap/js/bootstrap.min.js": {
+    "file": "assets/bootstrap.min-bb2c10ba.js",
+    "isEntry": true,
+    "src": "resources/login-assets/vendor/bootstrap/js/bootstrap.min.js"
+  },
+  "resources/login-assets/vendor/bootstrap/js/popper.js": {
+    "file": "assets/popper-5fa219bd.js",
+    "isEntry": true,
+    "src": "resources/login-assets/vendor/bootstrap/js/popper.js"
+  },
+  "resources/login-assets/vendor/css-hamburgers/hamburgers.min.css": {
+    "file": "assets/hamburgers.min-8f224ef3.css",
+    "isEntry": true,
+    "src": "resources/login-assets/vendor/css-hamburgers/hamburgers.min.css"
+  },
+  "resources/login-assets/vendor/select2/select2.min.css": {
+    "file": "assets/select2.min-0607c4b6.css",
+    "isEntry": true,
+    "src": "resources/login-assets/vendor/select2/select2.min.css"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-9bf9af48.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
